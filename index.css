@@ -131,7 +131,7 @@ section {
 
 section .presentacion{
     background-color: hsla(0,0%,74.5%,.3);
-    height: 550px;
+    height: 600px;
     width: 100%;
     border-radius: 12px;
     margin-top: 50px;
@@ -173,6 +173,11 @@ section .presentacion .Pro{
 
 .Pro:hover{
     opacity: .9;
+}
+
+.Pro a{
+    text-decoration: none;
+    color: rgb(34, 34, 34);
 }
 
 section .blog{
