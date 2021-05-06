@@ -131,7 +131,7 @@ section {
 
 section .presentacion{
     background-color: hsla(0,0%,74.5%,.3);
-    height: 700px;
+    height: 600px;
     width: 100%;
     border-radius: 12px;
     margin-top: 50px;
